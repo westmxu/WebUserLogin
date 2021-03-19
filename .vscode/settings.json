@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/62af82af-1b24-4856-a869-28bb2e52755d/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/WebUserLoginwestmxu",
+    "appService.deploySubpath": "publish"
+}
